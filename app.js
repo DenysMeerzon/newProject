@@ -1,2 +1,2 @@
 const value = 15;
-console.log(a);
+console.log(value);
