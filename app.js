@@ -1,2 +1,2 @@
-const a = 5;
+const value = 15;
 console.log(a);
